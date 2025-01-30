@@ -13,7 +13,7 @@ Here are the tasks I need to complete
    - kf_inventory.csv
    - kf_kantor_cabang.csv
    - kf_product.csv
-    I need to import these four datasets into BigQuery as tables, with the names being the same as the dataset names but without the ".csv" extention
+I need to import these four datasets into BigQuery as tables, with the names being the same as the dataset names but without the ".csv" extention
 3. Create an Analysis Table
 4. Create Dashboard Performance Analytics Kimia Farma Business Year 2020-2023
 
